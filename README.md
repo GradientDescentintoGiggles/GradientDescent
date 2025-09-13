@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mail2prashant99
+- 👋 Hi, I’m @GradientDescentintoGiggles
 - 👀 I’m interested in R studio programming and data visualization
 - 🌱 I’m currently learning R studio programming and data visualization
 - 💞️ I’m looking to collaborate on R studio programming and data visualization
